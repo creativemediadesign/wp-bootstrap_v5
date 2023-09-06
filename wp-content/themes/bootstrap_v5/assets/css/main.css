@@ -1,0 +1,65 @@
+body {
+    font-family: 'Noto Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: #606060;
+    font-size: 15px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Noto Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.mt-160 {
+    margin-top: 160px;
+}
+
+.wp-bootstrap-blocks-container {
+    margin-top: 120px;
+    margin-bottom: 120px !important;
+}
+
+.header {
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    background-color: #fff;
+    z-index: 10000;
+    border-bottom: 1px solid #e1e1e1;
+}
+.home-leistungen {
+    line-height: 26px;
+    font-size: 14px;
+}
+.home-leistungen h6 {
+    color: #000;
+    font-size: 13px;
+    line-height: 1.667em;
+    font-weight: 500;
+    letter-spacing: .6em;
+    text-transform: uppercase;
+    margin: 25px 0 5px 0;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.nav.nav-pills {
+    background-color: #f1f1f1;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #fff;
+    color: rgb(13, 110, 253);
+}
+
+.nav-pills a.nav-link {
+    color: #606060;
+    padding: 22px;
+}
+
+.nav-pills .nav-item {
+    border-right: 1px solid #d7d7d7;
+}
+
+.nav-pills .nav-item:last-child {
+    border-right: none;
+}
+
